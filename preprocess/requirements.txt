@@ -1,5 +1,0 @@
-numpy==1.18.2
-pandas==1.0.3
-pandas_datareader
-tqdm
-yfinance==0.1.54
