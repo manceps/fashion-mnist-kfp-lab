@@ -1,6 +1,6 @@
 # From Notebook to Kubeflow Pipeline using Fashion MNIST
 
-This project aims to show how to convert the Fashion MNIST example notebook found on the [Tensorflow website](https://www.tensorflow.org/tutorials/keras/classification) into notebook that can be run using [Kubeflow Pipelines](https://www.kubeflow.org/docs/pipelines/overview/pipelines-overview/). Our hope is that this baseline workflow can be extended to apply to more complex scenarios.
+This project aims to show how to convert the Fashion MNIST example notebook found on the [Tensorflow website](https://www.tensorflow.org/tutorials/keras/classification) into notebook that can be run using [Kubeflow Pipelines](https://www.kubeflow.org/docs/pipelines/overview/pipelines-overview/). Our hope is that this baseline workflow can be extended to apply to more complex scenarios. For a more detailed explanation of the different components of this notebook, check out the accompanying [blog post](https://www.manceps.com/articles/tutorial/kubeflow-pipelines-tutorial).
 
 
 ## Prerequisites
@@ -24,6 +24,8 @@ This project aims to show how to convert the Fashion MNIST example notebook foun
 ![alt text](/images/kf-demo-open-terminal.png "kf-demo-open-terminal")
 
 4. From there click on *KF_Fashion_MNIST.ipynb* on the notebook server homepage.
+
+
 
 ## Contributors
 
